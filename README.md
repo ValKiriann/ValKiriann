@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ana</h1>
 <h3 align="center">I'm Backend Developer and DevOps excited to create and share things with Tech Communities.</h3>
 
-- 🔭 I’m currently working on [Vector](https://www.vectoritcgroup.com/)
+- 🔭 I’m currently working on [Softtek](https://www.vectoritcgroup.com/)
 
-- 🌱 I’m currently learning **Kubernetes, AWS Cloud Architect, Azure, Docker**
+- 🌱 I’m currently learning **Kubernetes, AWS Cloud Architect, Azure**
 
 - 👯 I was working as a Developer Relations at **Santander and PagoNxt** (https://developerhub.santander.com)
 
