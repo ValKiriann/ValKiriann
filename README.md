@@ -7,6 +7,6 @@
 
 - 👯 I was working as a Developer Relations at **Santander and PagoNxt** (https://developerhub.santander.com)
 
-- 💬 Ask me about **Design, Js, NodeJs, CI/CD**
+- 💬 Ask me about **Design, Js, NodeJs, CI/CD, Github Actions, Azure DevOps**
 
 - ⚡ Fun fact **I graduate myself in Graphic Design but coding is my passion**
