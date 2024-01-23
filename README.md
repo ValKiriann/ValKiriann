@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Slido](https://www.slido.com/)
 
-- 🌱 I’m currently learning **Kubernetes, AWS Cloud Architect, Azure**
+- 🌱 I’m currently learning **AWS Cloud Architect, Terraform**
 
 - 👯 I was working as a Developer Relations at **Santander and PagoNxt** (https://developerhub.santander.com)
 
